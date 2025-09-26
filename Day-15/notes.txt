@@ -1,0 +1,42 @@
+Four pillars of OOPS
+    Polymorphism
+    Inheritance
+    Abstraction
+    Encapsulation
+
+Inheritance
+    inherit the parent's behaviour to the child's class.
+
+    types of inheritance:
+        single
+        multiple
+        multi-level
+        hybrid
+        hierarical
+
+    it is used by the keyword called "extends".
+
+    1.single-level:
+        one child inherit the one parent class
+
+    2.multi-level:
+        grandparent's property inherit by parent and that parent's property inherit by the child.
+
+    3.Hierarical:
+        multiple children inherit the single parent's property.
+
+    4.multiple:
+        two or more parent's property inherit by single child.
+
+    5.Hybird:
+        Combination of two or more types of inheritance.
+
+    super keyword:
+        it is used in three ways:
+            super variable
+            super method
+            super constructor
+
+        purpose:
+            if you want to access the parent's property in child's class while both have same name, then use the super keyword.
+            
