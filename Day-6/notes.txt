@@ -1,0 +1,33 @@
+Looping Statements
+    1) for          |
+                    | ---> these two called as the entry statement
+    2) while        | 
+
+    3) do-while
+
+1) for
+    syntax - for(int i=0; i<5; i++){
+                statement1;
+                statement2;
+                :
+                :
+            }
+
+2) while 
+    syntax - while(i<=5){
+                statement1;
+                    :
+                    :
+            }
+
+3) do-while
+    syntax - do{
+                statement1
+                    :
+                    :
+            }while(i<=5);
+
+Jumping Statements
+    1)continue - it skips that particular iteration
+    2)break - it forcefully stop the loop before it met condition
+    3)return - it stop the entire function

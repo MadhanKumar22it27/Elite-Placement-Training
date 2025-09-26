@@ -1,0 +1,5 @@
+Constructor:
+    It is created when an object is created.
+
+    Constructor's name should be same as class's name.
+    

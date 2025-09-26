@@ -1,0 +1,10 @@
+Operators in java
+
+    1)Arithmetic Operator - (+, -, *, /, %)
+    2)Logical Operator- (&&, ||, !)
+    3)Relational Operator- (<, >, ==, <=, >=, !=)
+    4)Bitwise Operator- (&, |, ^, <<, >>)
+    5)Ternary Operator- (?)
+    6)Assignment Operator- (=, +=, -=, *=, /=, %=)
+    7)Increment and Decrement Operators- (x++, ++x, x--, --x)
+    8)sizeof Operator

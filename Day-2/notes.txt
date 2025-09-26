@@ -1,0 +1,42 @@
+If you want to use the consant value, so use the keyword "final"
+
+Data Types:
+    1) Primitive - int, float(accept 6 decimal), long, double(accept 14 decimal), char, short, byte, and boolean (in-built)
+    2) Non-Primitive - String, Arrays, and Classes (dervied except String). it starts from the captial letters
+
+    primitive:
+        byte - 1 byte - stores -128 to 127
+        short - 2 bytes - stores -32,768 to 32,767
+        int - 4 bytes - stores  -2,147,483,648 to 2,147,483,647
+        long - 8 bytes - stores -9,223,372,036,854 to 9,223,372,036,854,775,807
+        float - 4 bytes - stores more than enough to 6 to 7 decimal
+        double - 8 bytes - stores more than enough to 15 decimal
+        boolean - 1 built - stores more than enough to true or false
+        char - 2 bytes - stores more than enough to single character
+
+        Scientific Numbers:
+            A floating point number can also be a scientific number with an "e" to indicate the power of 10
+    Non-Primitive:
+        character - single quotes
+        String - double quotes
+
+        System.out.print - it prints in single line
+        System.out.println - it prints in next line
+
+    Difference
+        primitive has always a value, while non-primitive has a null
+
+Type Casting:
+    it converts one datatype into another datatype
+
+    it has two types, they are
+        1)Widening Casting
+        2)Narrowing Casting
+
+    1) Widening Casting:
+        converting the smaller to a larger size type. it occurs automatically
+        byte -> short -> char -> int -> long -> float -> double
+
+    2) Narrowing Casting:
+        converting the larger to a smaller size type. it occurs manually
+        double -> float -> long -> int -> char -> short -> byte

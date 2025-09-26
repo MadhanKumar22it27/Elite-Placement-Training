@@ -1,0 +1,13 @@
+Java is founded in the 1991
+
+JVM - Java Virtual Machine (it runs on any machines)
+
+JRE - Java Runtime Environment (it provides an environment for run the codes). it contains JVM and libraries
+
+source code -> bytecode -> machine code
+
+java is an object-oriented programming language
+
+String[] args means all the inputs considered as String only
+
+If you want to take the character, use the nextCharAt (char a = sc.nextCharAt();)

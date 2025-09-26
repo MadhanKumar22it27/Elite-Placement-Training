@@ -1,0 +1,18 @@
+Class:
+    It is blue print of the real world entity.
+
+Object:
+    It is instance of class.
+
+Constructor:
+    it is used when object is created.
+
+Destructor:
+    It is free up spacwe when object is executed.
+
+String:
+    It is class.
+
+    It is immutable. but stringbuilder and stringbuffer are mutable.
+
+    stringbuilder can used in threads while stringbuffer cannot be used in threads.

@@ -1,0 +1,29 @@
+static Keyword:
+    it has static variable and static method.
+
+    static variable:
+        how to use - use it before the variable name.
+        if it is used and change the value for variable, then it affects the all objects
+
+    static method:
+        it is used to call the function without creating object
+
+Four Pillars of OOPS:
+    Abstraction
+    Polymorphism
+    Inheritance
+    Encapsulation
+
+Polymorphism:
+    it means many forms.
+    same method is used for different purposes.
+    Based on that, it has two types:
+
+        Method Overriding:
+            Redefine the method which is already mentioned.
+            it is used in inheritance for extend the base class to the derived class.
+
+        Method Overloading:
+            different methods with same names acting based on the number of parameters.
+            it is not possible in python.
+             if you still want to do this, then use the *args .

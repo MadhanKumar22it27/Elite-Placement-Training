@@ -1,0 +1,17 @@
+Functions:
+    Two types of functions, they are,
+        1. User-Defined
+        2. In-Built 
+
+    functions are
+        with parameters and with return types
+        with parameters and without return types
+        without parameters and with return types
+        without parameters and without return types
+
+    parameters are passed by two ways, they are
+        pass by value(for primitive data types)
+        pass by reference(for non-primitive data types)
+
+    Recursion:
+        A function calling itself eg: factorial
