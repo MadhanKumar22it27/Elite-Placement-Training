@@ -1,0 +1,5 @@
+Abstraction
+    Hide the unwanted data from user.
+    it is only used for method and class.
+    when the class is abstracted, it must be redefined.
+    you should not create the object. but we can take the reference.
