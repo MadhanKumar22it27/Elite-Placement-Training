@@ -1,0 +1,17 @@
+Four Pillars
+    1. Inheritance
+    2. Polymorphism
+    3. Abstraction
+    4. Encapsulation
+
+Abstraction:
+    If you want to define abstract method, it should be inside the abstract class.
+    Abstract method should be declare only, not define.
+    you can't create an object, but create a reference(inheritance)
+    Abstract method should be override.
+
+    Interface
+        It is similar to class.
+        Interface is abstract static type only and can't change.
+        with help of this, We can achieve the multiple inheritance.
+        Instead of using extends, we should use the implements keyword.
