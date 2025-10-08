@@ -1,0 +1,4 @@
+Encapsulation
+    binding the variables and methods into single unit.
+    if you want the access the private value in another class, use the getter and setter.
+    
