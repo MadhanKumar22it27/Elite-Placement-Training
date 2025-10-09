@@ -1,0 +1,22 @@
+Access Specifiers:
+    Public
+    Private
+    Protected
+    Deault
+
+    Public:
+        I can able to access the outside the package.
+    Private:
+        I can able to access within the class.
+    Protected:
+        I can able to access class and its sub-class.
+    Default:
+        I can able to access within the folder.
+
+Packages:
+    We can use the various file in same folder using public specifier.
+    First, we need to import the file in desired file using import keyword.
+
+Wrapper class:
+    Object convert into value automatically (auto-boxing).
+    
