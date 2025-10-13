@@ -1,0 +1,15 @@
+Exception Handling
+    There are two types of errors
+        1. Runtime errors.
+        2. Compile time errors.
+
+        Runtime errors occurs during the execution, while compile time errors occurs during the run or compile the code.
+
+    We can handle the errors using the try-catch block
+
+    try:
+        run the error expected code in the try.
+    catch:
+        if error throws, it catches and print the exception as simple output.
+    finally:
+        if you want to run the particular code even it's a error, finally run the partivluarocde 
