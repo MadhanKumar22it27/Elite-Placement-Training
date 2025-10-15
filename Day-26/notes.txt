@@ -1,0 +1,13 @@
+Exception Handling
+    try:
+        write the code that we expect the errors
+    catch:
+        handle the exception here and display the error message as the normal statement
+    finally:
+        write the code related to the try-catch for the procedure
+
+    java.lang.throwable
+        1) Exception
+            1) Checked 
+            2) Unchecked 
+        2) Error
